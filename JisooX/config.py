@@ -12,11 +12,11 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR BOT TOKEN HERE"
-    OWNER_ID = "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"
-    TELETHON_HASH = None  # for purge stuffs
-    TELETHON_ID = None
+    API_KEY = "2064609555:AAGeElYciRg-nIKYEsH-53zZkklxB3oyt54"
+    OWNER_ID = "1169818046"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "sta_noelle"
+    TELETHON_HASH = d22a4d25860c6673209ea07dc194857a  # for purge stuffs
+    TELETHON_ID = 7211896
     
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
