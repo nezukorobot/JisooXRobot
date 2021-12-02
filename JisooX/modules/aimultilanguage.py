@@ -7,7 +7,7 @@ import JisooX.modules.sql.kuki_sql as sql
 
 from time import sleep
 from telegram import ParseMode
-from JisooX import dispatcher, updater, SUPPORT_CHAT
+from JisooX import dispatcher, updater
 from JisooX.modules.log_channel import gloggable
 from telegram import (CallbackQuery, Chat, MessageEntity, InlineKeyboardButton,
                       InlineKeyboardMarkup, Message, ParseMode, Update, Bot, User)
